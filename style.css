@@ -1,0 +1,89 @@
+        #container
+        {
+            width:361px;
+            height:572px;
+            border:1px solid red; 
+            float:left;
+            box-sizing: border-box;
+            background-color: black;
+            margin: 100px 100px;
+        }
+        #box1
+        {
+            width:98%;
+            height:16%;
+            font-size: 64px;
+            color:white;
+            background-color: black;
+            margin-top: 91px;
+            border:0px;
+            outline:0px;
+            box-sizing: border-box;
+            text-align: right;
+        }
+        ::placeholder
+        {
+            color:white;
+        }
+        button
+        {   
+            width:24%;
+            height:68px;
+            border-radius:50px;
+            border:0px solid;
+            color:white;
+            background-color: rgb(51, 50, 50);
+            cursor:pointer;
+            margin-top:8px;
+            font-size: 30px;
+            outline:0px;
+        }
+        button:active
+        {
+            background-color:rgb(125, 122, 122);
+        }
+        #zero
+        {
+            width:178px;
+            padding-right: 96px;
+        } 
+        #sum:active
+        {
+            background-color:rgb(237, 237, 237);
+        }
+        #sub:active
+        {
+            background-color:rgb(237, 237, 237);
+        }
+        #mult:active
+        {
+            background-color:rgb(237, 237, 237);
+        }
+        #divi:active
+        {
+            background-color:rgb(237, 237, 237);
+        }
+        #equal:active
+        {
+            background-color:rgb(237, 237, 237);
+        }
+        #sum
+        {
+            background-color: orange;
+        }
+        #sub
+        {
+            background-color: orange;
+        }
+        #mult
+        {
+            background-color: orange;
+        }
+        #divi
+        {
+            background-color: orange;
+        }
+        #equal
+        {
+            background-color: orange;
+        }
