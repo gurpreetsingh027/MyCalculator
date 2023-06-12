@@ -1,3 +1,9 @@
+        *
+        {
+            padding:0px;
+            margin:0px;
+            box-sizing: border-box;
+        }
         #container
         {
             width:361px;
@@ -6,7 +12,7 @@
             float:left;
             box-sizing: border-box;
             background-color: black;
-            margin: 100px 100px;
+            margin: 192px 779px;
         }
         #box1
         {
